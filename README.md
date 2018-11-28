@@ -1,0 +1,1 @@
+this project tried to analyze the prospects of a nigerian graduate in terms of career employemnt. It proffers candid recommendations to graduates based on findings and results off our analysis. A big thanks to the stutern Nigeria for the data.
